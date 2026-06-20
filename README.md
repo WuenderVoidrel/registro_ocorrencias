@@ -4,10 +4,8 @@ Aplicativo móvel (React Native + Expo) para registrar **ocorrências no campo**
 sucroenergética — uma colhedora parada, um problema na lavoura, um foco de incêndio — com
 **foto**, **localização (GPS)** e descrição, salvos **localmente no celular** (funciona offline).
 
-## Integrantes
-<!-- PREENCHER: nome completo de cada integrante da dupla (ou só o seu, se individual) -->
-- NOME COMPLETO 1
-- NOME COMPLETO 2
+## Integrante
+- Wuender Bueno Martins
 
 ## Disciplina / Contexto
 - **Disciplina:** [85093] Desenvolvimento de Aplicações para Dispositivos Móveis — Tecnologia em
