@@ -62,5 +62,4 @@ RegistroOcorrencias/
 3. Abrir no **Expo Go** (celular) escaneando o QR Code, ou no **emulador Android**.
 
 ## APK
-<!-- PREENCHER: link da APK gerada via `eas build` -->
-- Download da APK: (inserir link)
+- Download da APK: https://expo.dev/artifacts/eas/pZ-Onplti94XSH0TJ1Ew-aI24WBhYGJRFg_MKcXIsMs.apk
