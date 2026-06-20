@@ -8,7 +8,7 @@ sucroenergética — uma colhedora parada, um problema na lavoura, um foco de in
 - Wuender Bueno Martins
 
 ## Disciplina / Contexto
-- **Disciplina:** [85093] Desenvolvimento de Aplicações para Dispositivos Móveis — Tecnologia em
+- **Disciplina:** Desenvolvimento de Aplicações para Dispositivos Móveis — Tecnologia em
   Análise e Desenvolvimento de Sistemas (IFMS — Campus Nova Andradina).
 - **Contexto:** operação agrícola de uma usina (Energética Santa Helena). Hoje, ocorrências de
   campo são reportadas de forma informal (ligação/WhatsApp/papel), o que perde **localização**,
