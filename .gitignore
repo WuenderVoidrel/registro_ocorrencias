@@ -40,7 +40,6 @@ yarn-error.*
 /ios
 /android
 
-# Arquivos locais de ferramentas/editor (nao versionar)
-.claude/
-AGENTS.md
-CLAUDE.md
+# material de estudo local
+GUIA-ESTUDO.html
+GUIA-ESTUDO.pdf
